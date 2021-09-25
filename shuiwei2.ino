@@ -1,7 +1,7 @@
 //Port Settings
-#define HX710_SCK 5//hx710 clock port
-#define HX710_DT 6//hx710 data port
-#define LATCHPIN 4//3 digital tube ports
+#define HX710_SCK 5//hx710 clock pin
+#define HX710_DT 6//hx710 data pin
+#define LATCHPIN 4//3 digital tube pin
 #define CLOCKPIN 7
 #define DATAPIN 8
 //The key port
